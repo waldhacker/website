@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="waldhacker">
+  <title>waldhacker</title>
+  <rect width="512" height="512" fill="#111313"/>
+  <!-- W body (warm white): left three strokes -->
+  <path fill="#F0EEE7" d="M88 140h56l42 139.2L228 140h56l70 232h-56l-42-139.2L214 372h-56Z"/>
+  <!-- W right stroke (cinnabar) -->
+  <path fill="#FF5A3D" d="M368 140h56L354 372h-56Z"/>
+</svg>

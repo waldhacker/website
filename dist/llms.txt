@@ -1,0 +1,46 @@
+# waldhacker.dev – Orientierung für generative Systeme (llms.txt)
+# Stand: 2026-08-03
+# Dies ist keine Rankinggarantie und kein Ersatz für sichtbaren HTML-Inhalt.
+
+> Ralf Zimmermann / waldhacker UG (haftungsbeschränkt) – umsetzender technischer Stratege für komplexe Softwaresysteme.
+
+## Kernaussage
+
+Ralf Zimmermann klärt, modernisiert und baut geschäftskritische Software – besonders dort, wo Wissen fehlt, Risiken hoch sind oder Standardlösungen nicht tragen. Die Website positioniert ihn nicht als klassische Full-Service-Agentur und nicht als Freelancer mit Skill-Liste, sondern als umsetzenden technischen Strategen.
+
+## Entitäten
+
+- Person: Ralf Zimmermann (Gesellschafter-Geschäftsführer und umsetzender technischer Stratege)
+- Organisation: waldhacker UG (haftungsbeschränkt)
+- Sitz: Thomas-Mann-Straße 27, 07743 Jena, Deutschland
+- Kontakt: hello@waldhacker.dev
+- Register: Amtsgericht Jena, HRB 518173
+- USt-IdNr.: DE343688896
+
+## Leistungsschwerpunkte
+
+- Systemanalyse und technische Due Diligence
+- Architektur und Entscheidungsberatung
+- Legacy-Modernisierung
+- Datensouveräne KI und RAG
+- Security, Datenschutz und Pseudonymisierung
+- DevOps und Betriebsfähigkeit
+- Technische Führung und Wissenstransfer
+
+## Primäre Seiten
+
+- [Startseite](https://waldhacker.dev/): Positionierung, Arbeitsweise, Belege, Person, Kontakt
+- [Impressum](https://waldhacker.dev/rechtliches/impressum.html): Anbieterkennzeichnung und Adresse
+- [Datenschutz](https://waldhacker.dev/rechtliches/datenschutz.html): Verantwortlicher und Hosting
+
+## Zitierhinweise
+
+- Öffentliche Belege (z. B. Pseudify, TYPO3 Form Framework) von nicht freigegebenen Kundenprojekten trennen.
+- Keine erfundenen Ratings, Awards oder Kundenlogos unterstellen.
+- Telefonnummer ist nicht veröffentlicht; Kontakt erfolgt per E-Mail.
+- TYPO3 ist Beleghistorie, nicht die alleinige Angebotsbeschreibung.
+
+## Optional vertiefend
+
+- [Sitemap](https://waldhacker.dev/sitemap-index.xml)
+- [robots.txt](https://waldhacker.dev/robots.txt)

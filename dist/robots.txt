@@ -1,0 +1,28 @@
+# Allow indexing for search and generative engines.
+# Block nothing intentionally – content is public marketing HTML.
+User-agent: *
+Allow: /
+
+# Common AI / answer-engine crawlers (explicit allow; no secrets on this site)
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+Sitemap: https://waldhacker.dev/sitemap-index.xml
